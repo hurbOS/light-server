@@ -1,0 +1,6 @@
+author: Hurb Industries
+package: test-pkg
+version: 1.0.1
+source: src.zip
+dependencies: wget, pacman, etc
+binary: testpkg

@@ -1,0 +1,6 @@
+author: Hurb Industries
+package: test-pkg2
+version: 1.0.0
+source: src.zip
+dependencies: curl, gtk, flask
+binary: testpkg2
